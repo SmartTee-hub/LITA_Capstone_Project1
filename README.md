@@ -3,3 +3,6 @@
 
 ### Project Overview
 This project leverages Excel, SQL, and Power BI to analyze Sales Performance Analysis for a Retail Store, uncovering key trends such as top-selling products, regional performance, monthly sales trends and empowering data-driven decision-making. By combining data cleaning, transformation, and visualization techniques, this project aims to produce an interactive Power BI dashboard that highlights these findings.
+
+### Data Sources
+The primary source of Data used here is Data sale.csv and this is an open source data that was given by Incubator Hub 
