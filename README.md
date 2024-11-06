@@ -52,5 +52,41 @@ EDA involved the exploring of the data to answer some questions about the data s
 This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
 
 ``` SQL
-SELECT * FROM TABLE1
-WHERE CONDITION = TRUE
+SELECT * FROM [dbo].[Sales_Data]
+
+Select * from [dbo].[Sales_Data]
+Select Product, sum(Total_Revenue) AS Total_Sales from [dbo].[Sales_Data]
+Group by product
+
+Select Region, count(OrderID) as No_of_Sales_Transactions from [dbo].[Sales_Data]
+Group by Region
+
+Select Top 1 product, sum(Total_Revenue) As highestselling From [dbo].[Sales_Data]
+Group by product 
+
+Select Product, sum(Total_Revenue) as Total_Revenue from [dbo].[Sales_Data]
+Group by Product 
+order by 2 desc
+
+select Orderdate, sum(Total_Revenue) As Monthly_Sales from [dbo].[Sales_Data]
+where Orderdate between '2024-01-01' and '2024-12-31'
+group by orderdate 
+order by orderdate
+
+select top 5 customer_Id, sum(Total_Revenue) as Total_Purchase from [dbo].[Sales_Data]
+group by customer_id
+order by Total_Purchase desc
+
+with Region As (
+select Region, sum(Total_Revenue) as Sales from [dbo].[Sales_Data]
+group by Region)
+select region,(sales * 100.0 / (select sum(Total_Revenue) from [dbo].[Sales_Data])) as Sales_Percentage
+from Region
+Order By Sales_Percentage desc
+
+SELECT Product FROM [dbo].[Sales_Data]
+WHERE NOT EXISTS (SELECT 1 FROM [dbo].[Sales_Data]
+WHERE Product = Product
+AND OrderDate BETWEEN '2024-01-01' and '2024-12-31'
+ )
+```
