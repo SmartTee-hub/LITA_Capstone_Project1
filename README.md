@@ -90,4 +90,4 @@ WHERE Product = Product
 AND OrderDate BETWEEN '2024-01-01' and '2024-12-31'
  )
 ```
-### Visualization
+### Data Visualization
