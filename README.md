@@ -98,3 +98,7 @@ AND OrderDate BETWEEN '2024-01-01' and '2024-12-31'
  )
 ```
 ### Data Visualization
+![Project 1 Table](https://github.com/user-attachments/assets/720398e2-f013-4271-915f-944d3f50d47a)
+![Project 1 Pivot](https://github.com/user-attachments/assets/8888dadb-1b83-4d4e-a209-f3360c101364)
+![Project 1 Visual](https://github.com/user-attachments/assets/6f5d82ff-e42f-4098-8b03-e8c44eaf64e1)
+
