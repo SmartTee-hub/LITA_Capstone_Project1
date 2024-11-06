@@ -2,12 +2,15 @@
 ### Project Title: Sales Performance Analysis for a Retail Store
 
 ### Project Overview
+---
 This project leverages Excel, SQL, and Power BI to analyze Sales Performance Analysis for a Retail Store, uncovering key trends such as top-selling products, regional performance, monthly sales trends and empowering data-driven decision-making. By combining data cleaning, transformation, and visualization techniques, this project aims to produce an interactive Power BI dashboard that highlights these findings.
 
 ### Data Sources
+---
 The primary source of Data used here is Data sale.csv and this is an open source data that was given by Incubator Hub. 
 
 ### Tools Used
+---
 - Microsoft Excel is a versatile tool used for a wide range of numerical tasks, including: [Download here](https://www.microsoft.com)
   1. for Data cleaning
   2. For Data Analysis 
@@ -30,14 +33,24 @@ The primary source of Data used here is Data sale.csv and this is an open source
   6. Data Storytelling.
 
 ### Data Cleaning and preparations
+---
   In the initial phase of the data cleansing and preparations, we perform the following action;
   1. Data loading and inspection
   2. handling missing variables
   3. Data cleansing and formatting.
 
  ### Exploratory Data Analysis
+ ---
 EDA involved the exploring of the data to answer some questions about the data such as;
 - What is the overall Sales Trend
 - Which product are top sellers
 - What is the Regional Performance
 - What is the Monthly Sales Trends?
+
+  ### Data Analysis
+---
+This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
+
+``` SQL
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE
