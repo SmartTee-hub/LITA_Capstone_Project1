@@ -122,3 +122,10 @@ The analysis reveals that Shoes was the top-selling product, with the South regi
 The analysis indicates that the South region exhibited the highest overall Regional sales performance, generating a total revenue of 927,820. This significantly surpasses the sales figures for the East (485,925), North (387,000), and West (300,345) regions.This suggests a strong demand for various product categories, including shoes, socks, gloves, hats, jackets, and shirts, within the South region.
 
 The analysis reveals that February was the peak sales month in both 2023 and 2024, with sales of 247,500 and 298,800, respectively. In contrast, the lowest sales were recorded in April 2023 (7,425) and July 2024 (37,200). The total annual sales for 2023 and 2024 were 1,105,330 and 995,760, respectively and the Grand Total is 2,101,090.
+
+### Recommendation
+---
+Recommendations: Capitalize on South's shoe demand, diversify product offerings in other regions, leverage peak sales periods, optimize inventory, analyze seasonal trends, and continuously adapt to market changes.
+### Contribution
+---
+Identifying the South region as a key market for shoes, suggesting product diversification for other regions, highlighting the importance of leveraging peak sales months and optimizing inventory management, and emphasizing the need for data-driven decision making, customer-centric approaches, strong partnerships, and continuous improvement.
