@@ -115,3 +115,5 @@ AND OrderDate BETWEEN '2024-01-01' and '2024-12-31'
 ![Project 1 Visual](https://github.com/user-attachments/assets/6f5d82ff-e42f-4098-8b03-e8c44eaf64e1)
 ![Project 1 PowerBI](https://github.com/user-attachments/assets/93ec61fa-2524-4055-98fa-0ff8ee0998f7)
 
+### Result and Findings
+---
