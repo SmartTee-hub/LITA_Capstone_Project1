@@ -9,9 +9,15 @@
 
 [Data Cleaning and preparations](Data-Cleaning-and-preparations)
 
-
 [Data Analysis](#Data-Analysis)
 
+[Data Visualization](Data-Visualization)
+
+[Result and Findings](Result-and-Findings)
+
+[Recommendation](Recommendation)
+
+[Contribution](Contribution)
 ### Project Overview
 ---
 This project leverages Excel, SQL, and Power BI to analyze Sales Performance Analysis for a Retail Store, uncovering key trends such as top-selling products, regional performance, monthly sales trends and empowering data-driven decision-making. By combining data cleaning, transformation, and visualization techniques, this project aims to produce an interactive Power BI dashboard that highlights these findings.
