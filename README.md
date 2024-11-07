@@ -117,3 +117,6 @@ AND OrderDate BETWEEN '2024-01-01' and '2024-12-31'
 
 ### Result and Findings
 ---
+The analysis reveals that Shoes was the top-selling product, with the South region demonstrating the highest demand, purchasing 546,300 units, significantly more than the East (37,200) and West (29,880) regions.
+The analysis indicates that the South region exhibited the highest overall sales performance, generating a total revenue of 927,820. This significantly surpasses the sales figures for the East (485,925), North (387,000), and West (300,345) regions.This suggests a strong demand for various product categories, including shoes, socks, gloves, hats, jackets, and shirts, within the South region.
+The analysis reveals that February was the peak sales month in both 2023 and 2024, with sales of 247,500 and 298,800, respectively. In contrast, the lowest sales were recorded in April 2023 (7,425) and July 2024 (37,200). The total annual sales for 2023 and 2024 were 1,105,330 and 995,760, respectively and the Grand Total is 2,101,090.
